@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief vindication of VVilliam Jervis, gent. Against the scandalous aspersions of John Hodder, gent. By way of a narrative.</title>
+            <author>Jervis, William, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87571</idno>
+            <idno type="STC">Wing J683</idno>
+            <idno type="STC">Thomason 669.f.17[1]</idno>
+            <idno type="STC">ESTC R211331</idno>
+            <idno type="EEBO-CITATION">99870061</idno>
+            <idno type="PROQUEST">99870061</idno>
+            <idno type="VID">163251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief vindication of VVilliam Jervis, gent. Against the scandalous aspersions of John Hodder, gent. By way of a narrative.</title>
+                  <author>Jervis, William, Gent.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Thomason copy imperfect; print show-through on first and last pages.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 30 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hodder, John --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:163251:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>A BRIEF VINDICATION OF William Jervis, Gent. Againſt the ſcandalous Aſperſions of <hi>John Hodder,</hi> Gent.</head>
+            <head type="sub">By way of a <hi>NARRATIVE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Daily meeting with manifold ſcandalous Aſperſions divulged and ſpread abroad againſt me by <hi>John Hodder</hi> and his Com<g ref="char:EOLhyphen"/>plices, touching the Charge proſecuted by me againſt the Truſtees ſitting at <hi>Drury houſe,</hi> and finding that by his ſubtle inſi<g ref="char:EOLhyphen"/>nuations they have with ſome perſons of honor received a credit, I conceive I am obliged to vindi<g ref="char:EOLhyphen"/>cate and free my ſelf from them. The aſperſions are many; but I ſhall only endevour to clear my ſelf from thoſe that are moſt material in my judgment, and ſeem of greateſt weight; which are,</p>
+            <p n="1">1. That <hi>I</hi> have neglected and declined the Proſecution of the ſaid Charge.</p>
+            <p n="2">2. That <hi>I</hi> have received ſeveral Papers from the ſaid <hi>Hodder,</hi> which <hi>I</hi> refuſe to deliver back to him.</p>
+            <p n="3">3. That I have taken one or more Bribes from the ſaid Truſtees, to deſiſt the ſaid Proſecution.</p>
+            <p>
+               <pb n="2" facs="tcp:163251:2"/>
+               <!-- PDF PAGE 7 -->
+In Anſwer to which I ſay: As to the firſt, I muſt confeſs there was not that proſecution made, as at my firſt under<g ref="char:EOLhyphen"/>taking taking it I did apprehend there ſhould have been; But whether or no it proceeded from my ſelf, or <hi>John Hodder,</hi> let all unbiaſſed men judge. For the truth of the Caſe is thus: <hi>John Hodder</hi> being a Clerk under the ſaid Truſtees for ſome time, and they, as I ſince have heard, having a juſt cauſe (which I ſhall for his ſake forbear to name) to put him by his Imploiment; He, to be revenged of them, con<g ref="char:EOLhyphen"/>federating with ſome other diſcontented Officers which had likewiſe been diſcharged of their imploiments, did contrive a Charge againſt the ſaid Truſtees, and brought the ſame to me, and preſt me very earneſtly to proſecute it; with many proteſtations atteſting, That that and much more Vilany and Roguery (to uſe their language) they could make good againſt them by ſufficient proof. I muſt confeſs I was at this very much ſtartled; firſt becauſe I never had any ground till that time of any other opinion of the ſaid Truſtees, but that they were honeſt godly men, and faithful in their truſt but on the other hand conſidering of the relations of the Informing perſons to the ſaid I ruſtees, with their privity to all or moſt of their tranſactions (as I then thought) with their multitude of aſſeverations of the truth of the matter, and that it was extracted by them out of the ſaid Truſtees own Books, which operating together with my real inclina<g ref="char:EOLhyphen"/>tion to the Publick good (of which I conceive I have in other things &amp; truſts given an ample teſtimony) prevailed with me to reſolve the owning of that Proſecution, not in the leaſt then diſtruſting that the ſaid <hi>John Hodder</hi> and his Complices had any other ends or aim in the buſineſs then my ſelf, having not till that time been intimate with them. And indeed I can ſay little elſe then owned it; for I proteſt of my own knowledge I knew not, nor was able in the leaſt to make out any thing that was criminal againſt the Truſtees; and what was done, though in my name, was wholly done by <hi>John Hodder</hi> and his Complices, (except the expunging of ſome unbeſeeming and meerly ſcandalous and frivolous language, proceeding from their malice, in<g ref="char:EOLhyphen"/>ſerted
+<pb n="3" facs="tcp:163251:3"/>
+               <!-- PDF PAGE 8 -->in the Charge;) He and they drew up the Charge, and all the Proceedings in order to it, in my name, as alſo inſtructed Council, appointed Witneſſes, and were exami<g ref="char:EOLhyphen"/>ned themſelves as Witneſſes, and eſpecially <hi>John Hodder</hi> managed the ſame as an Advocate at the Committee, but all indeed at my exceſſive charge, except a Pamphlet printed in <hi>Hodder's</hi> name, which I utterly diſown. But had I known they would have fallen ſo ſhort of their Proof as they did, I ſhould have been wiſer then to have put my finger in ſuch a fire. But that when I never contradicted <hi>John Hodder</hi> in all his proceedings, but rather aſſiſted him both with my friends, purſe and perſon, unto the Ordering of the Buſineſs by the Committee before whom it was, to be Reported to the Parliament (which was as far as I could proceed in it) I leave it to all judicious and unbiaſſed perſons to judge whether or no I can merit ſuch uſage at his hands. But had I at my firſt entertainment of it known as well as I now do, that <hi>John Hodder</hi> and all his Complices were perſons better acquainted with the Proceedings of an Alchouſe, or worſe, then ſuch ſerious things; I hope all men that know me will be ſo charitable to be of opinion that I ſhould not have undertaken it, nor have in the leaſt been ſeen to join with ſuch perſons.</p>
+            <p>As to his ſecond Objection, I do acknowledge I have received ſeveral Papers from him in order to the ſaid Charge and the making of it forth; which he hath demanded of me, and I have refuſed to deliver, and hope in any rational mans judgment may juſtly ſo do, in regard they are almoſt the whole matter <hi>I</hi> have to juſtifie my ſelf as to my under<g ref="char:EOLhyphen"/>taking and proceeding in that Charge.</p>
+            <p>And as to his third and laſt Objection, I cannot otherwiſe give ſatisfaction to the world then deny it, and that I thank God I can do with a clear conſcience; and do proteſt by all that is dear to me, that I never received directly or indirectly by Money, Promiſe, or other reward in preſent or in hopes, any manner of thing from the ſaid Truſtees or any of them, or any for them, to deſiſt or any way in the leaſt to decline the Proſecution of the ſaid Charge; neither ever did any
+<pb n="4" facs="tcp:163251:4"/>
+               <!-- PDF PAGE 9 -->ſuch thing enter into my thoughts. But this <hi>I</hi> muſt ingenu<g ref="char:EOLhyphen"/>ouſly acknowledge, That having (as <hi>I</hi> ſaid before) of my own knowledge no cauſe to have any ill opinion of the ſaid Truſtees, but on the contrary, and finding the ſcandalous and looſe condition and quality of the ſaid <hi>John Hodden</hi> and his Complices, and that their malice againſt the ſaid Truſtees was their onely inducement to it, and that their Proofs of the Charge fell exceeding ſhort of what they had ſo ſpeciouſly pretended, I would have withdrawn my hand if I could have done it with any ſafety to my reputation.</p>
+            <p>
+               <hi>I</hi> hope <hi>(Reader)</hi> by this thou art ſufficiently ſatisfied of my real integrity and ſincerity in that Charge, and that my meer aim and ends in it was the Publick good, and that <hi>I</hi> do not deſerve <hi>John Hodder's</hi> clamorous and impertinent A<g ref="char:EOLhyphen"/>ſperſions. But as for <hi>John Hodder</hi> and his Complices, if they want ſatisfaction, they know <hi>I</hi> am able to ſay more then this, upon further occaſion offered.</p>
+            <closer>
+               <signed>WILLIAM JERVIS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
